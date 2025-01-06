@@ -1,0 +1,22 @@
+{
+
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "eclipsemod:block_of_illuminite"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "eclipsemod:blocks/block_of_illuminite"
+}

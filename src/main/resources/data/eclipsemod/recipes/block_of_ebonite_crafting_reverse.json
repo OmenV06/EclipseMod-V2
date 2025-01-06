@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eclipsemod:block_of_ebonite"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "eclipsemod:ebonite_fragment"
+  }
+}

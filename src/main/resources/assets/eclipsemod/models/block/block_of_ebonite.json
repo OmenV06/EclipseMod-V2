@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "eclipsemod:block/block_of_ebonite"
+  }
+}

@@ -1,0 +1,38 @@
+{
+
+  "creativetab.eclipse_tab": "Eclipse",
+
+  "item.eclipsemod.illuminite_gem": "Illuminite Gem",
+  "item.eclipsemod.ebonite_fragment": "Ebonite Fragment",
+
+  "block.eclipsemod.block_of_illuminite": "Block of Illuminite",
+  "block.eclipsemod.block_of_ebonite": "Block of Ebonite",
+
+  "item.eclipsemod.mace_of_density": "Mace of Density",
+  "item.eclipsemod.dagger_of_venom": "Dagger of Venom",
+  "item.eclipsemod.dagger_of_decay": "Dagger of Decay",
+
+  "tooltip.eclipsemod.cursed.tooltip": "Cursed Artifact",
+  "tooltip.eclipsemod.mythical.tooltip": "Mythical Artifact",
+  "tooltip.eclipsemod.legendary.tooltip": "Legendary Artifact",
+  "tooltip.eclipsemod.rare.tooltip": "Rare Artifact",
+  "tooltip.eclipsemod.uncommon.tooltip": "Uncommon Artifact",
+  "tooltip.eclipsemod.common.tooltip": "Common Artifact",
+
+  "tooltip.eclipsemod.mace_of_density.tooltip": "Increased Knockback and Nausea",
+  "tooltip.eclipsemod.dagger_of_venom.tooltip": "Inflicts Poison",
+  "tooltip.eclipsemod.dagger_of_decay.tooltip": "Inflicts Deadly Poison",
+
+  "key.category.eclipsemod.eclipse": "Eclipse Mod",
+  "key.eclipsemod.player_menu": "Player Menu",
+  "key.eclipsemod.ability_bar": "Ability Bar",
+  "key.eclipsemod.ability_one": "Ability 1",
+  "key.eclipsemod.ability_two": "Ability 2",
+  "key.eclipsemod.ability_three": "Ability 3",
+  "key.eclipsemod.ability_four": "Ability 4",
+  "key.eclipsemod.ability_five": "Ability 5",
+  "key.eclipsemod.ability_six": "Ability 6",
+  "key.eclipsemod.ability_seven": "Ability 7",
+  "key.eclipsemod.ability_eight": "Ability 8",
+  "key.eclipsemod.ability_nine": "Ability 9"
+}

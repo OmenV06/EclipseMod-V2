@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "eclipsemod:item/dagger_of_venom"
+  }
+}
